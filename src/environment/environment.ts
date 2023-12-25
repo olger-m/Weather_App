@@ -4,6 +4,6 @@ export const environment={
   XRapidAPIHostHeaderName:'X-RapidAPI-Host',
   XRapidAPIHostHeaderValue:'open-weather13.p.rapidapi.com',
   XRapidAPIKeyHeaderName:'X-RapidAPI-Key',
-    XRapidAPIKeyHeaderValue:'eb3b788b16msh3929b305ab5768fp1a43ffjsnbf22a3428628'
-
+  XRapidAPIKeyHeaderValue:'eb3b788b16msh3929b305ab5768fp1a43ffjsnbf22a3428628'
+    // you might need to change the apikey since this api supports only 100 calls per month
 }

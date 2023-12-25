@@ -19,9 +19,11 @@ constructor(private weatherService:WetherService){
 
 weatherData?:any
 
+// uncomment to allow to search for city
+
 
   ngOnInit(): void {
-    // this.weatherService.getWeatherData('landon').subscribe({
+    // this.weatherService.getWeatherData('london').subscribe({
     //     next:(data)=>{this.weatherData=data;
     //   }}
     // )
